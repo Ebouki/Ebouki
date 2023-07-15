@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projet
 - 📫 How to reach me bema.emmanuel@yahoo.fr
+- premier cours de configuration de l'environnement pour java
 
 <!---
 Ebouki/Ebouki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
